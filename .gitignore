@@ -2,3 +2,6 @@
 .settings
 salesforce.schema
 Referenced Packages
+*.sublime-project
+config
+debug
