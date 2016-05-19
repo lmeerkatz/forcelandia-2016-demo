@@ -34,9 +34,5 @@
         <members>Speaker__c-Speaker Layout</members>
         <name>Layout</name>
     </types>
-    <types>
-        <members>unfiled$public</members>
-        <name>Report</name>
-    </types>
     <version>34.0</version>
 </Package>
