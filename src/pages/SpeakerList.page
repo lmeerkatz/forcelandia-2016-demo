@@ -1,0 +1,10 @@
+<apex:page controller="SpeakerListController">
+    <apex:pageBlock title="Speakers">
+        <apex:pageBlockTable value="{!speakers}" var="speaker">     
+            <apex:column value="{!speaker.Contact__r.FirstName}"/>
+            <apex:column value="{!speaker.Contact__r.LastName}"/>
+            <apex:column value="{!speaker.Session__c}"/>
+            <apex:column value="{!speaker.Send_Thank_You_Beer__c}"/>
+        </apex:pageBlockTable>
+    </apex:pageBlock>
+</apex:page>
