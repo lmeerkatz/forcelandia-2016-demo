@@ -57,6 +57,7 @@
     <label>Session</label>
     <listViews>
         <fullName>All</fullName>
+        <columns>NAME</columns>
         <filterScope>Everything</filterScope>
         <label>All</label>
     </listViews>

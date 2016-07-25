@@ -6,4 +6,5 @@
     <tab>standard-Contact</tab>
     <tab>Session__c</tab>
     <tab>standard-report</tab>
+    <tab>Speakers</tab>
 </CustomApplication>

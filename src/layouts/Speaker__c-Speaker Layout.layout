@@ -18,6 +18,10 @@
                 <behavior>Required</behavior>
                 <field>Session__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Send_Thank_You_Beer__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns/>
         <style>TwoColumnsTopToBottom</style>

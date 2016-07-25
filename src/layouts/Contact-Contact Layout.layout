@@ -127,11 +127,6 @@
                 <field>AccountId</field>
             </layoutItem>
         </relatedContentItems>
-        <relatedContentItems>
-            <layoutItem>
-                <component>sfa:socialPanel</component>
-            </layoutItem>
-        </relatedContentItems>
     </relatedContent>
     <relatedLists>
         <fields>NAME</fields>

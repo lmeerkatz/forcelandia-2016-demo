@@ -48,8 +48,7 @@
         <fields>NAME</fields>
         <fields>Contact.CNTC_FIRST_NAME</fields>
         <fields>Contact.NAME</fields>
-        <fields>Contact.CNTC_TITLE</fields>
-        <fields>Account.ACC_NAME</fields>
+        <fields>Send_Thank_You_Beer__c</fields>
         <relatedList>Speaker__c.Session__c</relatedList>
         <sortField>Contact.NAME</sortField>
         <sortOrder>Asc</sortOrder>
